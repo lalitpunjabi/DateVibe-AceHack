@@ -48,17 +48,17 @@ yarn install
 npm run dev
 # or
 yarn dev
-```
+```````
 
 ## Project Structure
 
-```
+``````
 src/
 ├── components/     # Reusable UI components
 ├── pages/         # Page components
 ├── App.tsx        # Main application component
 └── ...
-```
+```````
 
 ## Contributing
 
